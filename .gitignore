@@ -11,6 +11,10 @@ Icon
 ._*
 
 
+.vscode
+yarn.lock
+package-lock.json
+
 ############################
 # Linux
 ############################
